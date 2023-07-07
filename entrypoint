@@ -1,0 +1,4 @@
+#!/usr/bin/env sh
+
+ROOT=$(cd "$(dirname "$0")";cd .;pwd)
+go run ${ROOT}/main.go
