@@ -9,11 +9,11 @@ import (
 )
 
 const (
-	Us       = ""
-	Root     = ""
-	Addr     = ""
-	Protocol = ""
-	Domain   = ""
+	Us       = "{Us}"
+	Root     = "{Root}"
+	Addr     = "{Addr}"
+	Protocol = "{Protocol}"
+	Domain   = "{Domain}"
 )
 
 func main() {
